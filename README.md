@@ -1,7 +1,9 @@
 # Alexodess Games
-Welcome to the homepage of Alexodess Games ! Here, you can see and download my games, or see their work progress. 
+**Welcome to the homepage of Alexodess Games ! Here, you can see and download my games, or see their work progress.**
 
-Toi parler français ? [Games en Français](/fr.md)
+**Complete [this form](/sub.html) to get important informations about the games you want to follow.**
+
+**Toi parler français ? [Games en Français](/fr.md)**
 
 Quick access for games :\
 [2 nights at the regular museum](#2nrm)
