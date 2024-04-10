@@ -1,7 +1,9 @@
 # Alexodess Games
-Bienvenue sur Alexodess Games ! Ici, vous pouvez voir et télécharger mes jeux, ou voir leur progression. 
+**Bienvenue sur Alexodess Games ! Ici, vous pouvez voir et télécharger mes jeux, ou voir leur progression.**
 
-You do speak English ? [Games in English](https://alexodess211.github.io/games/)
+**Complétez [ce formulaire](/sub.html) pour obtenir d'importantes informations à propos des jeux que vous suivez.**
+
+**You do speak English ? [Games in English](https://alexodess211.github.io/games/)**
 
 Accès rapide aux jeux :\
 [2 nights at the regular museum](#2nrm)
