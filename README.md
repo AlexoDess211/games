@@ -18,7 +18,7 @@ This game is in progress. 1%.
 #### Downloads
 **Beta 0.1E** : 1% Progress. ?.?? MB (Not downloadable)\
 **(Stable) 1.0E** : 0% Progress. ?.?? MB (Doesn't exist)
-\
+
 ## More games soon !
 \
 \
