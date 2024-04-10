@@ -1,7 +1,7 @@
 # Alexodess Games
 Welcome to the homepage of Alexodess Games ! Here, you can see and download my games, or see their work progress. 
 
-Toi parler français ? [Games en Français](https://alexodess211.github.io/games/fr)
+Toi parler français ? [Games en Français](/fr.md)
 
 Quick access for games :\
 [2 nights at the regular museum](#2nrm)
