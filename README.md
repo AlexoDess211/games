@@ -3,7 +3,8 @@ Welcome to the homepage of Alexodess Games ! Here, you can see and download my g
 
 Toi parler français ? [Games en Français](https://alexodess211.github.io/games/fr)
 
-Quick access for games :
+Quick access for games :\
+[2 nights at the regular museum](#2nrm)
 
 ## 2nRM
 ### 2 nights at the Regular Museum
