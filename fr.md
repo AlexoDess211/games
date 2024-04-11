@@ -13,6 +13,7 @@ Accès rapide aux jeux :\
 Je travaille sur ce jeu. 2%.
 > Vous ne pouvez pas télécharger ce jeu car il n'est pas publié, ni prêt au téléchargement.\
 > 2 nights at the Regular Museum est un jeu où vous incarnez un garçon ou une fille, bloqués dans un musée avec des monstres et d'autres créatures dangereuses. Utilisez votre cerveau et vos outils pour battre la Reine des Monstres, et sauver la ville. Destiné aux personnes aux alentours de 12 ans. Jouable avec une manette.
+
 ### Téléchargement
 **Beta 0.1E** : Progrès de 2%. ?.?? Mo (Pas prêt)\
 **(Stable) 1.0E** : Progrès de 0%. ?.?? Mo (N'existe pas)
