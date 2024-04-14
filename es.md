@@ -1,4 +1,4 @@
-# Alexodess Games
+# Alexodess Games Español (Beta)
 **Bienvenido a la página de Alexodess Games. Aquí, puedes ver y descargar mis juegos, o ver el progreso de su trabajo.**
 
 **Rellena [este formulario](/sub.html) para obtener información importante sobre los juegos que quieres seguir.
