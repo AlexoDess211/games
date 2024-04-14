@@ -3,7 +3,7 @@
 
 **Rellena [este formulario](/sub.html) para obtener información importante sobre los juegos que quieres seguir.
 
-**Toi parler Français ? [Games en français](/fr.md)**
+**Toi parler Français ? [Games en français](/fr.md)**\
 **You do speak English ? [Games in English](/)**
 
 Acceso rápido a los juegos :\
