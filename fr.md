@@ -3,7 +3,8 @@
 
 **Complétez [ce formulaire](/sub.html) pour obtenir d'importantes informations à propos des jeux que vous suivez.**
 
-**You do speak English ? [Games in English](https://alexodess211.github.io/games/)**
+**You do speak English ? [Games in English](/)**\
+**¿Tú hablar Español? [Games en Español](/es.md)**
 
 Accès rapide aux jeux :\
 [2 nights at the regular museum](#2nrm)
