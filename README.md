@@ -4,7 +4,7 @@
 **Complete [this form](/sub.html) to get important informations about the games you want to follow.**
 
 **Toi parler français ? [Games en Français](/fr.md)**\
-**Tú hablar Español ? [Games en Español](/es.md)**
+**¿Tú hablar Español? [Games en Español](/es.md)**
 
 Quick access for games :\
 [2 nights at the regular museum](#2nrm)
