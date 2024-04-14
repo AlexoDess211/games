@@ -16,8 +16,8 @@ Este juego está en progreso. 1%.
 > 2 nights at the regular museum es un juego en el que encarnas a un chico o una chica, atrapado en un museo con monstruos y criaturas peligrosas. Usa tu cerebro y tus herramientas para derrotar a la Reina de los Monstruos y salvar la ciudad. Destinado a usuarios de 12 años. Apto para mandos.
 
 ### Descargas
-**Beta 0.1E** : 1% Progreso. ?.?? MB (No descargable)\
-**(Estable) 1.0E** : 0% Progreso. ?.?? MB (No existe)
+**Beta 0.1S** : 1% Progreso. ?.?? MB (No descargable)\
+**(Estable) 1.0S** : 0% Progreso. ?.?? MB (No existe)
 
 ## ¡Más juegos pronto!
 \
